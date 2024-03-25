@@ -1,12 +1,11 @@
 # todoapp
 
 A new Flutter project.
-
+ADD YOUR FIREBASE_OPTIONS.DART
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-ADD YOUR FIREBASE_OPTIONS.DART
 
 A few resources to get you started if this is your first Flutter project:
 
